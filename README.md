@@ -1,1 +1,1 @@
-# Ramadan_Calendar telegram obi uchun
+# Ramadan_Calendar telegram boti uchun
